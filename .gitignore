@@ -1,7 +1,13 @@
-__pycache__/
-*.py[cod]
 *.egg-info/
+*.py[cod]
+*.pyc
+.drafts/
+.env
+.env.*
 .pytest_cache/
 .ruff_cache/
-.drafts/
+.venv/
+__pycache__/
+dist/*.tmp
 drafts/
+node_modules/
